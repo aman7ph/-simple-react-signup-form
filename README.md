@@ -1,3 +1,3 @@
 # -simple-react-signup-form
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-urp81b)
+this is simple react form app the you can see the ui is on the image
